@@ -5,7 +5,7 @@
     "start": "webpack serve"
   },
   "dependencies": {
-    "bootstrap": "^5.3.1",
+    "bootstrap": "^5.3.2",
     "sass": "^1.62.1"
   },
   "devDependencies": {
